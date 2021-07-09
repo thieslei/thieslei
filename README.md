@@ -45,6 +45,8 @@ A little about me:
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thieslei-oliveira/)](https://linkedin.com/in/thieslei-oliveira/)
+
+[![My CV Page](https://img.shields.io/badge/-My CV Page-red?style=flat-square&logo=Web&logoColor=white&link=https://thieslei.github.io/)](https://thieslei.github.io/)
 <!--
  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@gb8may)
 -->
